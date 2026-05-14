@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_light_background
+color md_theme_light_error
+color md_theme_light_errorContainer
+color md_theme_light_inverseOnSurface
+color md_theme_light_inversePrimary
+color md_theme_light_inverseSurface
+color md_theme_light_onBackground
+color md_theme_light_onError
+color md_theme_light_onErrorContainer
+color md_theme_light_onPrimary
+color md_theme_light_onPrimaryContainer
+color md_theme_light_onSecondary
+color md_theme_light_onSecondaryContainer
+color md_theme_light_onSurface
+color md_theme_light_onSurfaceVariant
+color md_theme_light_onTertiary
+color md_theme_light_onTertiaryContainer
+color md_theme_light_outline
+color md_theme_light_primary
+color md_theme_light_primaryContainer
+color md_theme_light_secondary
+color md_theme_light_secondaryContainer
+color md_theme_light_surface
+color md_theme_light_surfaceVariant
+color md_theme_light_tertiary
+color md_theme_light_tertiaryContainer
+string app_name
+style Theme.AksharaDeepaTutor
+xml backup_rules
+xml data_extraction_rules
